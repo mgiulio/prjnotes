@@ -1,0 +1,41 @@
+html {
+	background-color: #000;
+}
+body {
+	font-family: 'Coustard', serif;
+}
+#page-wrap {
+	width: 720px;
+	margin: 0 auto;
+	background-color: #fff;
+	border: 2px solid #999;
+	padding: 20px;
+	margin-top: 80px;
+}
+h1, h2 {
+	margin: 20px 0;
+	color: #d26262;
+}
+h1 {
+	text-shadow: 1px 3px 1px #000;
+}
+p {
+	line-height: 1.5;
+	margin: 1em 0;
+}
+a {
+	color: #ffa500;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:visited {
+	color: #d67600;
+}
+a:active{
+	color: #ffff00;
+}
+ul {
+	margin-left: 3em;
+}
