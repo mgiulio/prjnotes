@@ -32,6 +32,7 @@ a:link {
 }
 a:hover, a:focus {
 	text-decoration: underline;
+	outline: none;
 }
 a:visited {
 	color: #d67600;
