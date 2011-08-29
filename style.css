@@ -26,11 +26,11 @@ p {
 	line-height: 1.5;
 	margin: 1em 0;
 }
-a {
+a:link {
 	color: #ffa500;
 	text-decoration: none;
 }
-a:hover {
+a:hover, a:focus {
 	text-decoration: underline;
 }
 a:visited {
